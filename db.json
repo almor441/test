@@ -1,0 +1,9 @@
+let garden = {
+"apple" : 5,
+"plum" : 2,
+"peach" : "we don't have this trees",
+"workers" : [
+	"gardener",
+	"gathener"
+]
+}
