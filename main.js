@@ -104,7 +104,7 @@ function saveMessage(telephone, address, comment, delivery, contact_person, emai
     });
 }
 
-var requestURL = 'https://github.com/almor441/testttt/edit/master/db.json';
+var requestURL = 'https://github.com/mdn/learning-area/blob/master/javascript/oojs/json/superheroes.json';
    var request = new XMLHttpRequest();
    request.open('GET', requestURL);
    request.responseType = 'json';
